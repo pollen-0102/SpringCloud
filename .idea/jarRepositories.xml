@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="aliyun-spring-plugin" />
+      <option name="name" value="aliyun-spring-plugin" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring-plugin" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wis-snapshot" />
+      <option name="name" value="WIS snapshot repo" />
+      <option name="url" value="http://183.195.194.250:8242/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-gradle-plugin" />
+      <option name="name" value="aliyun-gradle-plugin" />
+      <option name="url" value="https://maven.aliyun.com/repository/gradle-plugin" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wis-3rd" />
+      <option name="name" value="WIS 3rd party repo" />
+      <option name="url" value="http://183.195.194.250:8242/nexus/content/repositories/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-google" />
+      <option name="name" value="aliyun-google" />
+      <option name="url" value="https://maven.aliyun.com/repository/google" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-public" />
+      <option name="name" value="aliyun-public" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-spring" />
+      <option name="name" value="aliyun-spring" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wis-release" />
+      <option name="name" value="WIS release repo" />
+      <option name="url" value="http://183.195.194.250:8242/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wis-proxy" />
+      <option name="name" value="Proxy server" />
+      <option name="url" value="http://183.195.194.250:8242/nexus/content/groups/public/" />
+    </remote-repository>
+  </component>
+</project>
