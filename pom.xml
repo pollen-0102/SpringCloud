@@ -50,6 +50,7 @@
     </properties>
 
 
+    <!--dependencyManagement 这个标签作用子模块继承之后提供简化GAV依赖作用 子模块不用写GAV坐标了-->
     <dependencyManagement>
 
         <dependencies>

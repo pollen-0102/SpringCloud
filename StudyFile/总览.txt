@@ -1,0 +1,7 @@
+注册中心：Eureka弃用了   用nacos代替
+负载均衡：Ribbon将要弃用  LoadBalance
+服务调用： openfeign
+服务熔断：hystrix弃用   sentienl代替
+网关：zuul  gateWay代替
+配置中心： Nacos
+消息总线：Nacos
